@@ -34,7 +34,7 @@ The data from this sensors is stored in an internal DB \(in the server\) and ava
 
 ---
 
-**                
+**                  
 **SECTION 1 – Server
 
 The Server at Adressaparken acts as a gateway for all communications but it does not have an active input in any of the processes. Its main services are the following:
@@ -69,13 +69,9 @@ Video over Network
 
 Having said that, there might be situations where a separate machine is needed. For this, any of the other machines could be used. If the user still wants to use Hippo it is possible to route video through Spout, NDI or other networked video solutions. For Windows machines Hippo offers its own system: [ScreenThief](https://support.green-hippo.com/article/2-software-downloads).
 
-**                
-**
-
 Creating content for Hippotizer
 
-Any of the following formats can be used within Hippo, the server also has internal encode on import functions.**                
-**
+Any of the following formats can be used within Hippo, the server also has internal encode on import functions.**                **
 
 Video \(minimum size 64 x 64 pixels\)
 
@@ -144,8 +140,6 @@ Development for the Raspberry Pi units was done in Python with maintenance and c
 · Raspberry Pi code \(in[ Bitbucket](https://bitbucket.org/parken_dev/raspberry-pi-python-app)\)
 
 · Server side code \(in [Bitbucket](https://bitbucket.org/parken_dev/raspberry-pi-control-panel)\)
-
-
 
 **Python code for sensor data and OpenCV**
 
