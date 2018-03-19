@@ -1,11 +1,3 @@
-The following is a development guide for the installation at Adressaparken and it is true to the signed document date.
-
-If there are any questions, problems or difficulties please contact Adressaparken representatives.
-
-Trondheim, 01 September 2017
-
----
-
 # **Repositories and Assets**
 
 All Repositories and assets can be found listed below, note that not all might be publicly open.
@@ -42,7 +34,7 @@ The data from this sensors is stored in an internal DB \(in the server\) and ava
 
 ---
 
-**        
+**            
 **SECTION 1 – Server
 
 The Server at Adressaparken acts as a gateway for all communications but it does not have an active input in any of the processes. Its main services are the following:
@@ -77,12 +69,12 @@ Video over Network
 
 Having said that, there might be situations where a separate machine is needed. For this, any of the other machines could be used. If the user still wants to use Hippo it is possible to route video through Spout, NDI or other networked video solutions. For Windows machines Hippo offers its own system: [ScreenThief](https://support.green-hippo.com/article/2-software-downloads).
 
-**        
+**            
 **
 
 Creating content for Hippotizer
 
-Any of the following formats can be used within Hippo, the server also has internal encode on import functions.**        
+Any of the following formats can be used within Hippo, the server also has internal encode on import functions.**            
 **
 
 Video \(minimum size 64 x 64 pixels\)
@@ -161,37 +153,39 @@ The** **code running on the Raspberry Pi’s that gets sensor data from the atta
 
 The openCV code also runs in a separate thread. It captures images at a resolution of 640x480 pixels, then crops the left and right edges, so 2 adjacent cameras don’t cover the same area. The framerate is set to 32 frames per second and the shutter speed and ISO values are set at runtime, depending on the surrounding light levels. A background subtraction algorithm, that comes with openCV, is used to reduce the false positive rate for the detection. Each frame is compared to the previous frame and the openCV detection algorithm will only be applied if there was a significant change in the frames. This reduces the overall processing time and makes the system more reliable. Generally a single frame can take up to 400 milliseconds to process on the Raspberry Pi, so the less frames are processed, the better.
 
-The collected data is published via OSC and MQTT within the system. The OSC addresses are as following:
+`The collected data is published via OSC and MQTT within the system. The OSC addresses are as following:`
 
-* /rpi/&lt;RPi-ID&gt;/temperature
+* `/rpi/<RPi-ID>/temperature`
 
-* /rpi/&lt;RPi-ID&gt;/pressure
+* `/rpi/<RPi-ID>/pressure`
 
-* /rpi/&lt;RPi-ID&gt;/light
+* `/rpi/<RPi-ID>/light`
 
-* /rpi/&lt;RPi-ID&gt;/pedestrian
+* `/rpi/<RPi-ID>/pedestrian`
 
 The messages are broadcast using the network's broadcast address and the port can be specified for each Raspberry Pi individually in the control panel \(covered in detail further down in this document\).
 
-The data is also broadcast using the MQTT protocol, which is also used for system specific purposes, e.g. heartbeat messages, etc. The MQTT topics are as follows:
+The data is also broadcast using the MQTT protocol, which is also used for system specific purposes, e.g. heartbeat messages, etc. 
 
-* parken/rpi/&lt;RPi-ID&gt;/version- current version number of the app
+`The MQTT topics are as follows:`
 
-* parken/rpi/&lt;RPi-ID&gt;/quit- halts the program
+* `parken/rpi/<RPi-ID>/version- current version number of the app`
 
-* parken/rpi/&lt;RPi-ID&gt;/restart- restarts the Raspberry Pi
+* `parken/rpi/<RPi-ID>/quit- halts the program`
 
-* parken/rpi/&lt;RPi-ID&gt;/heartbeat- heartbeat sent every 10 seconds
+* `parken/rpi/<RPi-ID>/restart- restarts the Raspberry Pi`
 
-* parken/rpi/&lt;RPi-ID&gt;/settings- used to change settings in the RPi
+* `parken/rpi/<RPi-ID>/heartbeat- heartbeat sent every 10 seconds`
 
-* parken/rpi/&lt;RPi-ID&gt;/temperature
+* `parken/rpi/<RPi-ID>/settings- used to change settings in the RPi`
 
-* parken/rpi/&lt;RPi-ID&gt;/pressure
+* `parken/rpi/<RPi-ID>/temperature`
 
-* parken/rpi/&lt;RPi-ID&gt;/light
+* `parken/rpi/<RPi-ID>/pressure`
 
-* parken/rpi/&lt;RPi-ID&gt;/pedestrian
+* `parken/rpi/<RPi-ID>/light`
+
+* `parken/rpi/<RPi-ID>/pedestrian`
 
 Control panel for Raspberry Pi’s
 
@@ -217,20 +211,20 @@ The newly installed [Libelium](http://www.libelium.com) system is a custom spec 
 
 This API makes available data stored from multiple sensors \(humidity, temperature, CO2, etc...\) installed in a Park.
 
-
-
 Please refer to manufacturer for detailed documentation and guidelines and the bitbucket [repository](https://bitbucket.org/parken_dev/parkenlibelium) for details on the code.
 
 The current installation has the following sensors:
 
-- Plug & Sense! SCP WiFi
+* Plug & Sense! SCP WiFi
 
-* 9370-P Temperature, Humidity and Pressure Probe  
+* 9370-P Temperature, Humidity and Pressure Probe
+
 * NLS Noise Level Sensor
 
-- 9372-P Carbon Dioxide Probe
+* 9372-P Carbon Dioxide Probe
 
-* 9387-P Particle Matter \(PM1 / PM2.5/ PM10\) - Dust Probe  
+* 9387-P Particle Matter \(PM1 / PM2.5/ PM10\) - Dust Probe
+
 * 9375-P Luminosity Probe** **
 
 Data Storage and API link

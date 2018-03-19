@@ -1,23 +1,5 @@
 # Technical rider
 
-Summary
-
-Please use this summary as a checklist for Adressaparken.
-
-The technical section is part of the contract and you are responsible to comply with its requirements.
-
-As a working procedure adressaparken encourages visits to the installation site as long as notice is given.
-
-Any changes or deviations from the technical specifications of the contract rider, must be approved.
-
-If there are any questions, problems or difficulties complying with any aspect of the following requirements please contact:
-
-Andrew Perkins, andrew.perkis@ntnu.no
-
-**Trondheim, 01 September 2017**
-
----
-
 **SECTION 1 – TECHNICAL RESPONSIBILITIES**
 
 **HEALTH AND SAFETY**
@@ -58,7 +40,7 @@ A single Ubuntu machine acts as DHCP server and gateway for the local network.
 
 All hardware part of the main installation will have assigned IPs, any locally connected machine will be automatically assigned an IP address \(192.168.1.150-200 : 255.255.0.0\).
 
-NOTE: There is no wireless access in the control room.**      
+NOTE: There is no wireless access in the control room.**          
 **
 
 **Sensors Overview**
@@ -139,6 +121,6 @@ NOTES:
 
 · Lights are controlled by either the Hippo Karst or an installation of M-PC and sent to an ENTTEC Artnet decoder \([link](https://www.enttec.com/eu/products/controls/legacy/ode/)\), which is not accessible
 
-**      
+**          
 **
 
