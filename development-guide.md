@@ -34,7 +34,7 @@ The data from this sensors is stored in an internal DB \(in the server\) and ava
 
 ---
 
-**            
+**                
 **SECTION 1 – Server
 
 The Server at Adressaparken acts as a gateway for all communications but it does not have an active input in any of the processes. Its main services are the following:
@@ -69,12 +69,12 @@ Video over Network
 
 Having said that, there might be situations where a separate machine is needed. For this, any of the other machines could be used. If the user still wants to use Hippo it is possible to route video through Spout, NDI or other networked video solutions. For Windows machines Hippo offers its own system: [ScreenThief](https://support.green-hippo.com/article/2-software-downloads).
 
-**            
+**                
 **
 
 Creating content for Hippotizer
 
-Any of the following formats can be used within Hippo, the server also has internal encode on import functions.**            
+Any of the following formats can be used within Hippo, the server also has internal encode on import functions.**                
 **
 
 Video \(minimum size 64 x 64 pixels\)
@@ -145,15 +145,17 @@ Development for the Raspberry Pi units was done in Python with maintenance and c
 
 · Server side code \(in [Bitbucket](https://bitbucket.org/parken_dev/raspberry-pi-control-panel)\)
 
----
 
-Python code for sensor data and OpenCV
+
+**Python code for sensor data and OpenCV**
 
 The** **code running on the Raspberry Pi’s that gets sensor data from the attached sensor board and detects people with openCV is written in python3. The sensor board, EnviroPhat by Pimoroni, comes with a temperature-, pressure-, light- and motion-sensor, as well as 5 analog inputs, which can be used to add more sensors. The motion sensor is not in use for this project, as the Raspberry Pis will be stationary and it would be futile. There is a separate thread in the python code, that continuously receives the values from the sensor board and stores them locally. Depending on the settings \(covered in more detail the next part of this documentation\), the sensor data is transmitted regularly or whenever it changes or both.
 
 The openCV code also runs in a separate thread. It captures images at a resolution of 640x480 pixels, then crops the left and right edges, so 2 adjacent cameras don’t cover the same area. The framerate is set to 32 frames per second and the shutter speed and ISO values are set at runtime, depending on the surrounding light levels. A background subtraction algorithm, that comes with openCV, is used to reduce the false positive rate for the detection. Each frame is compared to the previous frame and the openCV detection algorithm will only be applied if there was a significant change in the frames. This reduces the overall processing time and makes the system more reliable. Generally a single frame can take up to 400 milliseconds to process on the Raspberry Pi, so the less frames are processed, the better.
 
-`The collected data is published via OSC and MQTT within the system. The OSC addresses are as following:`
+The collected data is published via OSC and MQTT within the system.
+
+`The OSC addresses are as following:`
 
 * `/rpi/<RPi-ID>/temperature`
 
@@ -165,7 +167,7 @@ The openCV code also runs in a separate thread. It captures images at a resoluti
 
 The messages are broadcast using the network's broadcast address and the port can be specified for each Raspberry Pi individually in the control panel \(covered in detail further down in this document\).
 
-The data is also broadcast using the MQTT protocol, which is also used for system specific purposes, e.g. heartbeat messages, etc. 
+The data is also broadcast using the MQTT protocol, which is also used for system specific purposes, e.g. heartbeat messages, etc.
 
 `The MQTT topics are as follows:`
 
