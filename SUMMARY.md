@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Technical Rider](technical-rider.md)
+* [Development Guide](development-guide.md)
+
