@@ -34,7 +34,7 @@ The data from this sensors is stored in an internal DB \(in the server\) and ava
 
 ---
 
-**                  
+**                    
 **SECTION 1 – Server
 
 The Server at Adressaparken acts as a gateway for all communications but it does not have an active input in any of the processes. Its main services are the following:
@@ -185,7 +185,7 @@ The data is also broadcast using the MQTT protocol, which is also used for syste
 
 Control panel for Raspberry Pi’s
 
-The control panel for the Raspberry Pi’s is written in javascript using the node.js and express frameworks. It can be accessed with a web browser on[http://192.168.1.1:8080](http://192.168.1.1:8080)
+The control panel for the Raspberry Pi’s is written in javascript using the node.js and express frameworks. It can be accessed with a web browser on [http://192.168.1.1:8080](http://192.168.1.1:8080)
 
 It is comprised of a global tab and an individual tab for each Raspberry Pi. The global tab has a list of all the connected Pi’s and their status \(online or offline\) as well a a form for changing settings globally. The individual tabs show a list of the Raspberry Pi’s last published data as well as a form to set the individual settings. The possible settings are as follows:
 
