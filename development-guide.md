@@ -24,7 +24,7 @@ Please find the previous documentation \(partially out of date\) in the Dropbox 
 
 **General Architecture**
 
-The system at Adressaparken structures itself around independently acting nodes, both of sensors or actuators. As a general guide, the system is designed so that all of the nodes are open to be used as inputs or outputs for the data. The artist's work positions itself in the right topology in order to use relevant inputs / outputs.
+The system at Adressaparken structures itself around independently acting nodes, both of sensors or actuators. As a general guide, the system is designed so that all of the nodes are open to be used as inputs or outputs for the data. The artist's work positions itself accordingly so it can  use relevant inputs / outputs to the work.
 
 The local system is completely closed, with a server acting as gateway for all outside communication. Ensuring that all communication can navigate openly inside the local network.
 
@@ -34,7 +34,7 @@ The data from this sensors is stored in an internal DB \(in the server\) and ava
 
 ---
 
-**                    
+**                      
 **SECTION 1 – Server
 
 The Server at Adressaparken acts as a gateway for all communications but it does not have an active input in any of the processes. Its main services are the following:
@@ -63,7 +63,7 @@ The DHCP configuration assigns fixed IP addresses for the main machines that run
 
 The installed media server is capable of playing multi track audio, 3 outputs of video and outputting Artnet. Meaning it has capacity to run all the actuators in the park natively. Adding to the fact that it can be controlled with several show network standards \(DMX, OSC, MIDI, TCP, TIMECODE etc.\) it makes for an ideal backbone for interactive installations.
 
-Hippotizer has a big user base and is well documented, with both [written documentation](https://support.green-hippo.com/section/7-documentation) and [youtube videos](https://www.youtube.com/user/HippoSchoolOnline).
+Hippotizer has a big user base and is well documented,  please visit the [online manual](http://www.green-hippo.com/manual/), [forum](http://forum.green-hippo.com/) or [youtube videos](https://www.youtube.com/user/HippoSchoolOnline) for more information.
 
 Video over Network
 
@@ -113,7 +113,7 @@ Audio Encoding
 
 Media Server Control
 
-The Media server can be controlled with use of several industry standard protocols. There are a lot of resources online, please visit the [online manual](http://www.green-hippo.com/manual/), [forum](http://forum.green-hippo.com/) or [youtube videos](https://www.youtube.com/user/HippoSchoolOnline) for more information.**  **
+The Media server can be controlled with use of several industry standard protocols. See [Multicontroller](https://www.green-hippo.com/manual/hippotizer-v4/4.2/en/topic/multicontroller) in the products manual.
 
 Lighting and Sound
 
