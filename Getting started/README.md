@@ -1,4 +1,6 @@
-These are steps needed
+# Getting started
+
+This is the typical process for using the park
 
 * [Book the park](/Getting started/Booking the park.md)
 * Prepare your exhibition in advance. See our [code examples](/Getting started/Code examples.md) to get started.
