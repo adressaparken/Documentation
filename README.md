@@ -1,24 +1,14 @@
 # Adressaparken Documentation
 
-Please use this summary as a checklist for Adressaparken and is true to the signed date.
+Adressaparken is free and open space for art and technology. The park provides you with infrastructure like power and ethernet at multiple places outside the [adressa building](https://www.google.no/maps/place/Adresseavisen/@63.4326696,10.4050947,17z/data=!3m1!4b1!4m5!3m4!1s0x466d2e63add647bf:0x34d64f2879de4e18!8m2!3d63.4326672!4d10.4072835). You may also use existing sensors and actuators \(like sound and light\) for your own purpose. See our [getting started](/Getting started) section for how to do this.
 
-As a working procedure adressaparken encourages visits to the installation site as long as notice is given.
+For more information about the park, see [https://www.ntnu.edu/thepark](https://www.ntnu.edu/thepark)
 
-If there are any questions, problems or difficulties complying with any aspect of the following requirements please contact:
+**Questions?**
 
-Andrew Perkins, andrew.perkis@ntnu.no
-
-Trondheim, 01 September 2017
-
-Where to find information...
-
-contact points
+Feel free to contact [parken@adresseavisen.no](mailto:parken@adresseavisen.no)
 
 
 
-TODO
 
-add code examples and a getting started section to the docs
-
-see whats happenning with speaker order
 
