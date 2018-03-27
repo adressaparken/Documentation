@@ -2,8 +2,8 @@
 
 This is the typical process for using the park
 
-* [Book the park](//Getting started/Booking the park.md)
-* Prepare your exhibition in advance. See our [code examples](//Getting started/Code examples.md) to get started.
+* [Book the park](//Getting started/Booking the park.html)
+* Prepare your exhibition in advance. See our [code examples](//Getting started/Code examples.html) to get started.
 * Adressa will provide physical access to the park
 * Install your exhibition and maintain it in through your booked period
 * Leave a note in the control room with how to reset and control your exhibition if service is needed in the exhibition period.
