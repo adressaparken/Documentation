@@ -5,9 +5,9 @@
   * [Booking the park](/Getting started/Booking the park.md)
   * [Code examples](/Getting started/Code examples.md)
 * [Technical](/Technical/README.md)
-  * [Technical Rider](technical-rider.md)
-  * [Development Guide](development-guide.md)
-  * [Rpi - BOM](rpi-bom.md)
+  * [Technical Rider](/Technical/technical-rider.md)
+  * [Development Guide](/Technical/development-guide.md)
+  * [Rpi - BOM](/Technical/rpi-bom.md)
 
 
 
