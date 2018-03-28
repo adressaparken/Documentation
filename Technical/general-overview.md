@@ -1,4 +1,4 @@
-# General Overview
+# System Overview
 
 **Network**
 
@@ -6,7 +6,7 @@ A single Ubuntu machine acts as DHCP server and gateway for the local network.
 
 All hardware part of the main installation will have assigned IPs, any locally connected machine will be automatically assigned an IP address \(192.168.1.150-200 : 255.255.0.0\).
 
-NOTE: There is no wireless access in the control room.**              
+NOTE: There is no wireless access in the control room.**                
 **
 
 **Sensors Overview**
@@ -23,11 +23,11 @@ All control data in the infrastructure is done over [OSC](https://en.wikipedia.o
 
 **Signal and Power Distribution**
 
-Signal distribution is available from control room to weatherproof boxes onsite \(Type 2, see diagram in theSection 3 - Equipment Listor through the [link](https://www.dropbox.com/s/ghvep2qklfr6lp3/park layout.png?dl=0)\), namely for XLR 5 \(DMX\) and RJ-45 \(Ethernet\) connectors. The XLR 5 connectors can potentially be used as a cable link between the park and control room.
+Signal distribution is available from control room to weatherproof boxes onsite \(ADD IMAGE\), namely for XLR 5 \(DMX\) and RJ-45 \(Ethernet\) connectors. The XLR 5 connectors can potentially be used as a cable link between the park and control room.
 
 Video feeds are also available for using with either screens or projectors in the park.
 
-Additional power sources and extra distribution equipment are widely available through the park and should be negotiated on a project basis. Please follow the[ link](https://www.dropbox.com/s/035mc3y8hauur0i/Sensorboks-innredning.pdf?dl=0) for a box design description.
+Additional power sources and extra distribution equipment are widely available through the park and should be negotiated on a project basis.
 
 **Libelium System · Web API**
 

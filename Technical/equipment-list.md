@@ -6,15 +6,15 @@ The equipment list is a total list for the park
 
 Find this image in the following [link](https://www.dropbox.com/s/ghvep2qklfr6lp3/park layout.png?dl=0)
 
-**ONSITE ACTUATORS**
+**ONSITE ACTUATORS \(OUTPUT\)**
 
 Light / Sound / Video
 
 · 10 x Analog RGB LED strips built onto floor, fixed
 
-· 6 x Omnidirectional speakers, fixed \(Bose Freespace 51[link](https://www.bose.com/en_us/products/speakers/stereo_speakers/free-space-51-environmental-speakers.html)\)
+· 6 x Omnidirectional speakers, fixed \(Bose Freespace 51 [link](https://www.bose.com/en_us/products/speakers/stereo_speakers/free-space-51-environmental-speakers.html)\)
 
-· 2 x Video Projector PT-RW630[link](http://www.projectorcentral.com/Panasonic-PT-RW630LBU-projection-calculator-pro.htm)
+· 2 x Video Projector PT-RW630 [link](http://www.projectorcentral.com/Panasonic-PT-RW630LBU-projection-calculator-pro.htm)
 
 NOTE: Extra speakers and screens can be accommodated in the system. However, current setup only caters for a total of 6 passive speakers.
 

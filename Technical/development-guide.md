@@ -6,6 +6,8 @@ All Repositories and assets can be found listed below, note that not all might b
 
 * [Raspberry Pi Control Panel](https://bitbucket.org/parken_dev/raspberry-pi-control-panel)
 
+2 - Media Playback
+
 3 - Raspberry Pi
 
 * [Sensor + OpenCV](https://bitbucket.org/parken_dev/raspberry-pi-python-app)
@@ -17,8 +19,6 @@ All Repositories and assets can be found listed below, note that not all might b
 * [Website](https://bitbucket.org/parken_dev/parkenweb)
 
 * [Libelium](https://bitbucket.org/parken_dev/parkenlibelium)
-
-Please find the previous documentation \(partially out of date\) in the Dropbox under [0 - Internal/99 Archive](https://www.dropbox.com/sh/4qx5ysv73c4hf6b/AACj5S1c8tojekY6_Fo8CwRqa?dl=0)
 
 ---
 
@@ -34,7 +34,7 @@ The data from this sensors is stored in an internal DB \(in the server\) and ava
 
 ---
 
-**                      
+**                        
 **SECTION 1 – Server
 
 The Server at Adressaparken acts as a gateway for all communications but it does not have an active input in any of the processes. Its main services are the following:

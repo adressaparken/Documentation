@@ -1,6 +1,6 @@
 # Technical rider
 
-**SECTION 1 – TECHNICAL RESPONSIBILITIES**
+# Technical Safety
 
 **Electrical and Other Appliances**
 
@@ -8,9 +8,9 @@ The power in Norway is 230V generally distributed through [shucko](https://en.wi
 
 Any equipment installed in public space should be in accord to local universal access regulations.
 
-**Rigging Operations**
+**Installing Operations**
 
-In all instances pertaining to rigging safety, Adressaparken’s technical personnel is responsible for determining appropriate measures to be taken. Any person undertaking any rigging at Adressaparken must hold a certificate of competency appropriate to the skill level required as issued by a recognised authority and/or have experience in this type of operation. Only rigging devices engineered, certified and rated for the task may be employed.
+In all instances pertaining to install safety, Adressaparken’s technical personnel is responsible for approving and determining appropriate measures to be taken. 
 
 Any rigging to be done outside of the park area will depend on permits from local authorities.
 
@@ -32,6 +32,6 @@ Changelogs must be kept as appropriate so system can be reset after guest visits
 
 ---
 
-**              
+**                
 **
 
