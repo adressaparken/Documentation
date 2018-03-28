@@ -1,32 +1,4 @@
-SENSORS 
+# Code Examples - Inputs
 
-Sensors
-
-
-
-ACTUATORS
-
-Lights
-
-
-
-Sound
-
-
-
-Projectors
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The park makes available an array of sensors.
 

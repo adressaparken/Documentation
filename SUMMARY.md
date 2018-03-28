@@ -9,8 +9,8 @@
 
 * [Getting started](/Getting started/README.md)
 * [Booking the park](/Getting started/Booking the park.md)
-* [Code examples](/Getting started/Code examples.md)
-* [Code Examples - Actuators](code-examples-actuators.md)
+* [Code examples - Inputs](/Getting started/Code examples.md)
+* [Code examples - Outputs](Getting started/code-examples-actuators.md)
 
 ## Technical
 
