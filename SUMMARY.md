@@ -13,5 +13,5 @@
 
 ## test part
 
-* asdasd
+* [asdasd](test-part/asdasd.md)
 
