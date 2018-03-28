@@ -3,7 +3,7 @@
 **This is the typical process for using the park**
 
 * [Book the park](//Getting started/Booking the park.html) through the web portal
-* Become familiar with the equipment available \(MAKE MAP\)
+* Become familiar with the equipment available
 * Prepare your exhibition offline. Use our [code examples](//Getting started/Code examples.html) to get started.
 * Adressa will provide physical access to the park
 * Install your event or exhibition and maintain it through the booked period
@@ -15,7 +15,7 @@ Once your installation is up and running, you are responsible for leaving adequa
 * Leave a note in the control room with how to reset and control your exhibition if service is needed in the exhibition period
 * Return keys and other borrowed materials
 
-
+If any questions arise during any of the steps please contact us at[ parken@adresseavisen.no](mailto:parken@adresseavisen.no)
 
 
 

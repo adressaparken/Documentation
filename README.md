@@ -8,3 +8,15 @@ For more information about the park, see [https://www.ntnu.edu/thepark](https://
 
 Feel free to contact [parken@adresseavisen.no](mailto:parken@adresseavisen.no)
 
+
+
+
+
+ToDO 
+
+MAKE MAP of equipment
+
+
+
+
+
