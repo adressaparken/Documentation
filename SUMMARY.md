@@ -14,7 +14,9 @@
 
 ## Technical
 
-* [Technical Rider](/Technical/technical-rider.md)
+* [Technical ](/Technical/technical-rider.md)
+* [General Overview](Technical/general-overview.md)
+* [Equipment List](Technical/equipment-list.md)
 * [Development Guide](/Technical/development-guide.md)
 * [Rpi - BOM](/Technical/rpi-bom.md)
 
