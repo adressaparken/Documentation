@@ -10,13 +10,9 @@ Feel free to contact [parken@adresseavisen.no](mailto:parken@adresseavisen.no)
 
 
 
+TODO
 
-
-ToDO 
-
-MAKE MAP of equipment
-
-
+* [ ] Make map of equipment
 
 
 
