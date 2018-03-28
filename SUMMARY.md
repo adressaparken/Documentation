@@ -8,6 +8,5 @@
   * [Technical Rider](/Technical/technical-rider.md)
   * [Development Guide](/Technical/development-guide.md)
   * [Rpi - BOM](/Technical/rpi-bom.md)
-
-
+* [Contact Us](contact-us.md)
 
