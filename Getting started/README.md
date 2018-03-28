@@ -1,14 +1,21 @@
 # Getting started
 
-This is the typical process for using the park
+**This is the typical process for using the park**
 
-* [Book the park](//Getting started/Booking the park.html)
-* Prepare your exhibition in advance. See our [code examples](//Getting started/Code examples.html) to get started.
+* [Book the park](//Getting started/Booking the park.html) through the web portal
+* Become familiar with the equipment available \(MAKE MAP\)
+* Prepare your exhibition offline. Use our [code examples](//Getting started/Code examples.html) to get started.
 * Adressa will provide physical access to the park
-* Install your exhibition and maintain it in through your booked period
-* Leave a note in the control room with how to reset and control your exhibition if service is needed in the exhibition period.
-* When your exhibition is ended, you should clean up your stuff and leave everything as it was when you got it
+* Install your event or exhibition and maintain it through the booked period
+
+**Before you leave**
+
+Once your installation is up and running, you are responsible for leaving adequate documentation on its running procedures and maintenance. The Adressa team is not responsible any development pertaining artists install.
+
+* Leave a note in the control room with how to reset and control your exhibition if service is needed in the exhibition period
 * Return keys and other borrowed materials
+
+
 
 
 
