@@ -1,4 +1,4 @@
-# Getting started
+# Getting started {#gettingstarted}
 
 **This is the typical process for using the park**
 
@@ -16,6 +16,4 @@ Once your installation is up and running, you are responsible for leaving adequa
 * Return keys and other borrowed materials
 
 If any questions arise during any of the steps please contact us at[ parken@adresseavisen.no](mailto:parken@adresseavisen.no)
-
-
 
