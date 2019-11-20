@@ -18,3 +18,9 @@
 | Weight screens | 260kg |
 | Weight steel construction | 70kg |
 
+## How to add content to signage solution \(playsignage\)
+
+[https://my.playsignage.com/manage/playlists](https://my.playsignage.com/manage/playlists)
+
+![](../../.gitbook/assets/screenshot-2019-11-20-17.13.34.png)
+
