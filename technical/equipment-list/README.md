@@ -4,7 +4,7 @@ Adressaparken does not guarantee that all or any of these facilities or equipmen
 
 The equipment list is a total list for the park
 
-Find this image in the following [link](https://www.dropbox.com/s/ghvep2qklfr6lp3/park layout.png?dl=0)
+Find this image in the following [link](https://www.dropbox.com/s/ghvep2qklfr6lp3/park%20layout.png?dl=0)
 
 **ONSITE ACTUATORS \(OUTPUT\)**
 

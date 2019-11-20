@@ -1,3 +1,5 @@
+# Internal
+
 SECTION 1 – Server
 
 The Server at Adressaparken acts as a gateway for all communications but it does not have an active input in any of the processes. Its main services are the following:
@@ -32,11 +34,9 @@ Development for the Raspberry Pi units was done in Python with maintenance and c
 
 **Python code for sensor data and OpenCV**
 
-The** **code running on the Raspberry Pi’s that gets sensor data from the attached sensor board and detects people with openCV is written in python3. The sensor board, EnviroPhat by Pimoroni, comes with a temperature-, pressure-, light- and motion-sensor, as well as 5 analog inputs, which can be used to add more sensors. The motion sensor is not in use for this project, as the Raspberry Pis will be stationary and it would be futile. There is a separate thread in the python code, that continuously receives the values from the sensor board and stores them locally. Depending on the settings \(covered in more detail the next part of this documentation\), the sensor data is transmitted regularly or whenever it changes or both.
+The ****code running on the Raspberry Pi’s that gets sensor data from the attached sensor board and detects people with openCV is written in python3. The sensor board, EnviroPhat by Pimoroni, comes with a temperature-, pressure-, light- and motion-sensor, as well as 5 analog inputs, which can be used to add more sensors. The motion sensor is not in use for this project, as the Raspberry Pis will be stationary and it would be futile. There is a separate thread in the python code, that continuously receives the values from the sensor board and stores them locally. Depending on the settings \(covered in more detail the next part of this documentation\), the sensor data is transmitted regularly or whenever it changes or both.
 
 The openCV code also runs in a separate thread. It captures images at a resolution of 640x480 pixels, then crops the left and right edges, so 2 adjacent cameras don’t cover the same area. The framerate is set to 32 frames per second and the shutter speed and ISO values are set at runtime, depending on the surrounding light levels. A background subtraction algorithm, that comes with openCV, is used to reduce the false positive rate for the detection. Each frame is compared to the previous frame and the openCV detection algorithm will only be applied if there was a significant change in the frames. This reduces the overall processing time and makes the system more reliable. Generally a single frame can take up to 400 milliseconds to process on the Raspberry Pi, so the less frames are processed, the better.
-
-
 
 Data Storage and API link
 

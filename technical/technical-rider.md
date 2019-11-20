@@ -1,6 +1,8 @@
-# Technical rider
-
 # Technical Safety
+
+## Technical rider
+
+## Technical Safety
 
 **Electrical and Other Appliances**
 
@@ -10,7 +12,7 @@ Any equipment installed in public space should be in accord to local universal a
 
 **Installing Operations**
 
-In all instances pertaining to install safety, Adressaparken’s technical personnel is responsible for approving and determining appropriate measures to be taken. 
+In all instances pertaining to install safety, Adressaparken’s technical personnel is responsible for approving and determining appropriate measures to be taken.
 
 Any rigging to be done outside of the park area will depend on permits from local authorities.
 
@@ -27,11 +29,4 @@ The sandbox media infrastructure at Adressaparken is completely open in local ne
 The server running in the control room is the gateway for all communications in the park and it is also responsible for storing and presenting all the sensor data to the web. We strongly advise against using this if not strictly necessary.
 
 Changelogs must be kept as appropriate so system can be reset after guest visits. We do also recommend system backups to be made before guests commencing development in the local machines.
-
----
-
----
-
-**                
-**
 

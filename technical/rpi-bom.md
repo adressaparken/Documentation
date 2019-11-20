@@ -1,3 +1,5 @@
+# Rpi - BOM
+
 Enclosure
 
 The Raspberry Pis in the sensor boxes \(1-9\) have custom designed enclosures. Please find design and assembly details [here](https://www.dropbox.com/sh/f0kpbijof75f8he/AABsvF3s7CZVFd1wWMZMEcZ9a?dl=0). Follow below for full bill of materials.
@@ -26,7 +28,7 @@ BOM \(for single unit setup\)
 
 · 1 x Raspberry Pi noIR camera v2 [link](http://no.rs-online.com/web/p/video-modules/9132673/?searchTerm=913-2673&relevancy-data=636F3D3126696E3D4931384E525353746F636B4E756D626572266C753D656E266D6D3D6D61746368616C6C26706D3D5E285C647B362C377D5B4161426250705D297C285C647B337D5B5C732D2F255C2E2C5D5C647B332C347D5B4161426250705D3F292426706F3D3126736E3D592673743D52535F53544F434B5F4E554D4245522677633D4E4F4E45267573743D3931332D32363733267374613D3931333236373326)
 
-· 1 x M12 21mm spacing lens holder[^1][ link](http://www.m12lenses.com/CNC-Machined-Raspberry-Pi-M12-Lens-Holder-Metal-p/pt-lh020rpm.htm)
+· 1 x M12 21mm spacing lens holder[ link](http://www.m12lenses.com/CNC-Machined-Raspberry-Pi-M12-Lens-Holder-Metal-p/pt-lh020rpm.htm)
 
 · 1 x M12 Focus lock [link](http://www.m12lenses.com/M12x0-5-Lock-Ring-Plastic-p/pt-lr001p.htm)
 
@@ -37,6 +39,4 @@ BOM \(for single unit setup\)
 · 1 x 15 pin CSI ribbon cable [link](https://www.elfadistrelec.no/en/flat-ribbon-cable-raspberry-pi-pi-2b-raspberry-pi-rpi-fbk-75/p/30037322?q=ribbon+cable+raspberry+pi&page=1&origPos=1&origPageSize=25&simi=95.55&no-cache=true)
 
 · 1 x Enviro Hat sensor board [link](https://shop.pimoroni.com/products/enviro-phat)
-
-[^1]: On M12 Holders: not all holders have gaps for the Raspberry Pi Camera IC. Care is needed on purchasing \(otherwise it is easily solved by cutting a small plastic piece off\)
 

@@ -6,8 +6,8 @@ A single Ubuntu machine acts as DHCP server and gateway for the local network.
 
 All hardware part of the main installation will have assigned IPs, any locally connected machine will be automatically assigned an IP address \(192.168.1.150-200 : 255.255.0.0\).
 
-NOTE: There is no wireless access in the control room.**                
-**
+NOTE: There is no wireless access in the control room.    
+****
 
 **Sensors Overview**
 
