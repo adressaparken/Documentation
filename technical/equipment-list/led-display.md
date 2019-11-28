@@ -20,7 +20,31 @@
 
 ## How to add content to signage solution \(playsignage\)
 
-[https://my.playsignage.com/manage/playlists](https://my.playsignage.com/manage/playlists)
+Official documentation: [https://playsignage.com/support/](https://playsignage.com/support/)
+
+Go here to modify slides: [https://my.playsignage.com/manage/playlists](https://my.playsignage.com/manage/playlists)
+
+### This is how you add a new playlist
 
 ![](../../.gitbook/assets/screenshot-2019-11-20-17.13.34.png)
+
+![Create a unique and describing name](../../.gitbook/assets/bilde%20%285%29.png)
+
+![Expand &quot;Advanced&quot; and set screen aspect ratio to 160:480](../../.gitbook/assets/bilde%20%282%29.png)
+
+![Click create](../../.gitbook/assets/bilde%20%284%29.png)
+
+![Create your content and publish](../../.gitbook/assets/bilde.png)
+
+At this point your slides are ready, but not showing anywhere. To assign to screen do the following.
+
+![Enter &quot;Groups &amp; schedules&quot;, select your playlist and publish to activate your slides.](../../.gitbook/assets/bilde%20%283%29.png)
+
+You can verify what the screen is showing by entering "Screens" and request a screenshot by clicking the photocamera icon. It should return something like this:
+
+![](../../.gitbook/assets/bilde%20%281%29.png)
+
+### Configuration
+
+At time of writing, the screen is connected to Mac1 that runs the play signage software. You connect to the screen with HDMI and it identifies as a normal screen where you only can leverage the top left corner \(160x480 pixels\). If you want its also possible to configure it with our Hippotizer Media Server.
 
