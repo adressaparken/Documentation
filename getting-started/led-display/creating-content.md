@@ -30,5 +30,5 @@ To use a different application or a normal media player, it could be necessary t
 
 ![](../../.gitbook/assets/screenshot-2020-03-07-at-16.25.00.png)
 
-![](../../.gitbook/assets/screenshot-2020-03-07-at-16.24.21.png)
+![](../../.gitbook/assets/screenshot-2020-03-07-at-16.38.06.png)
 
