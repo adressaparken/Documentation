@@ -2,7 +2,7 @@
 
 **This is the typical process for using the park**
 
-* [Book the park](https://github.com/adressaparken/documentation/tree/9542daf3d4f021bc0b7cb2e9ca14de4cafafac4b/Getting%20started/Booking%20the%20park.html) through the web portal
+* Book the park through the web portal
 * Become familiar with the equipment available
 * Prepare your exhibition offline. Use our [code examples](https://github.com/adressaparken/documentation/tree/9542daf3d4f021bc0b7cb2e9ca14de4cafafac4b/Getting%20started/Code%20examples.html) to get started.
 * Adressa will provide physical access to the park

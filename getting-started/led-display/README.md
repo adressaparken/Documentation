@@ -20,6 +20,10 @@
 
 ## How to add content to signage solution \(playsignage\)
 
+{% hint style="info" %}
+To see the content guide creation follow the instructions in our article [here](creating-content.md)
+{% endhint %}
+
 Official documentation: [https://playsignage.com/support/](https://playsignage.com/support/)
 
 Go here to modify slides: [https://my.playsignage.com/manage/playlists](https://my.playsignage.com/manage/playlists)
