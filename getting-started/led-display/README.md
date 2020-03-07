@@ -44,11 +44,7 @@ At this point your slides are ready, but not showing anywhere. To assign to scre
 
 ![Enter &quot;Groups &amp; schedules&quot;, select your playlist and publish to activate your slides.](../../.gitbook/assets/bilde%20%283%29.png)
 
-You can verify what the screen is showing by entering "Screens" and request a screenshot by clicking the photocamera icon. It should return something like this:
+You can verify what the screen is showing by entering "Screens" and request a screenshot by clicking the photo camera icon. It should return something like this:
 
 ![](../../.gitbook/assets/bilde%20%281%29.png)
-
-### Configuration
-
-At time of writing, the screen is connected to Mac1 that runs the play signage software. You connect to the screen with HDMI and it identifies as a normal screen where you only can leverage the top left corner \(160x480 pixels\). If you want its also possible to configure it with our Hippotizer Media Server.
 
