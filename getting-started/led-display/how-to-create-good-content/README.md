@@ -30,7 +30,6 @@ There are no formulas that would work for any kind of content when resizing. It 
 * If possible, choose a small section of the content that works when scaled up
 * Use a levels adjustment layer to increase black level and enhance back small line detail  [to thicken lines](thicken-lines.md)
 * Try using minimum filter to [make lines thicker](thicken-lines.md)
-* With simple line drawings or similar, could you fill the shape outlines with solid color?
 
 {% page-ref page="thicken-lines.md" %}
 
