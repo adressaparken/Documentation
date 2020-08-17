@@ -1,20 +1,10 @@
-# Image rescaling
+# Thicken lines
 
-![1. import image](../../../.gitbook/assets/1-import-image.png)
+![image imported and cropped](../../../.gitbook/assets/1-image-imported-and-cropped.png)
 
-![2. set crop to 1x3 aspect](../../../.gitbook/assets/2-set-crop-to-1x3-aspect.png)
+![ using minimum filter ](../../../.gitbook/assets/3-using-minimum-filter-.png)
 
-![3. choose region of interest](../../../.gitbook/assets/3-choose-region-of-interest.png)
-
-![4. crop image](../../../.gitbook/assets/4-crop-image.png)
-
-![5. resize image using edit - image size](../../../.gitbook/assets/5-resize-image-using-edit-image-size.png)
-
-![6. set resolution accordingly](../../../.gitbook/assets/6-set-resolution-accordingly.png)
-
-![example of cropped and scaled image](../../../.gitbook/assets/example-of-cropped-and-scaled-image.png)
-
-![example of scaled without cropping \(image squeezed\)](../../../.gitbook/assets/example-of-scaled-without-cropping-image-squeezed-.png)
+![using levels adjustment layer](../../../.gitbook/assets/4-using-levels-adjustment-layer.png)
 
 
 
