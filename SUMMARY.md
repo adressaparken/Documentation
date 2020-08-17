@@ -12,7 +12,11 @@
 
 * [Getting started](getting-started/getting-started.md)
 * [LED display](getting-started/led-display/README.md)
-  * [Creating content](getting-started/led-display/creating-content.md)
+  * [How to create good content](getting-started/led-display/how-to-create-good-content/README.md)
+    * [Thicken lines](getting-started/led-display/how-to-create-good-content/thicken-lines.md)
+    * [Image rescaling](getting-started/led-display/how-to-create-good-content/image-rescaling.md)
+  * [Digital signage solution \(recommended\)](getting-started/led-display/digital-signage-solution.md)
+  * [Creating content for the screen directly](getting-started/led-display/content-raster.md)
 * [Code examples - Inputs](getting-started/code-examples.md)
 * [Code examples - Outputs](getting-started/code-examples-actuators.md)
 
