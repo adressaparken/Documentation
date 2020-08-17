@@ -18,5 +18,17 @@
 | Weight screens | 260kg |
 | Weight steel construction | 70kg |
 
-## 
+## 1. Diplayed artwork \_need\_ to be designed for the purpose
+
+{% page-ref page="how-to-create-good-content/" %}
+
+## 2. When ready, this is how you deliver the artwork
+
+{% page-ref page="digital-signage-solution.md" %}
+
+## 3. Need a custom solution? \(advanced users only\)
+
+{% page-ref page="content-raster.md" %}
+
+
 
