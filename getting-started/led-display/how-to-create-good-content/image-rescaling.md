@@ -1,4 +1,4 @@
-# Image rescaling
+# Thicken lines
 
 ![](../../../.gitbook/assets/screenshot-2020-08-16-at-22.15.45.png)
 

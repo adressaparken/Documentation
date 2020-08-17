@@ -1,2 +1,2 @@
-# Thicken lines
+# Image rescaling
 
