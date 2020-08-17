@@ -4,15 +4,15 @@
 
 {% tabs %}
 {% tab title="bicubic sharper" %}
-![bicubic sharper](../../../.gitbook/assets/bicubic-sharper%20%281%29.png)
+![](../../../.gitbook/assets/2-bicubic-sharper.png)
 {% endtab %}
 
 {% tab title="bilinear" %}
-![bilinear](../../../.gitbook/assets/bilinear.png)
+![](../../../.gitbook/assets/3-bilinear.png)
 {% endtab %}
 
 {% tab title="nearest neighbour" %}
-![nearest neighbour](../../../.gitbook/assets/nearest-neighbour.png)
+![](../../../.gitbook/assets/4-nearest-neighbour.png)
 {% endtab %}
 {% endtabs %}
 
