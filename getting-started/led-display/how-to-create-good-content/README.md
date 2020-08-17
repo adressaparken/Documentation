@@ -17,18 +17,22 @@ The video screen at Adressaparken is built in portrait mode at 0.96 x 2.88m. It 
 * Avoid small details and thin lines, these would most likely get lost
 * Avoid aliasing on graphics and type
 
-### How export an image to show in Photoshop \(or simulate the low resolution image\)
+### How export an image to show in Photoshop \(or simulate the low resolution image\):
 
-* Go to .... \[rescaling standar procedure folder\]
+{% page-ref page="scale-and-export.md" %}
 
-There are no formulas that would work for any kind of content when resizing. It is worth playing with the scaling algorithms inside photoshop. \(rescaling algorithms folder\)
+There are no formulas that would work for any kind of content when resizing. It is worth playing with the scaling algorithms inside photoshop. 
+
+{% page-ref page="rescaling-algorithms.md" %}
 
 ### Some ideas to remediate unsuited content 
 
 * If possible, choose a small section of the content that works when scaled up
-* Use a levels adjustment layer to increase black level and enhance back small line detail  \[thicken lines folder\]
+* Use a levels adjustment layer to increase black level and enhance back small line detail  [to thicken lines](thicken-lines.md)
 * Try using minimum filter to make lines thicker \[thicken lines folder\]
 * With simple line drawings or similar, could you fill the shape outlines with solid color?
+
+{% page-ref page="thicken-lines.md" %}
 
 {% hint style="info" %}
 **Video specification**  
