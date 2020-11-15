@@ -31,5 +31,5 @@ Additional power sources and extra distribution equipment are widely available t
 
 **Libelium System · Web API**
 
-A separate sensor system \([Libelium Smart Cities Pro](http://www.libelium.com/new-smart-cities-platform-air-quality-dust-sound-light-precision-sensors/)\) offers additional information on environmental data onsite, refer to manufacturer for development guides and the development document for details on local specification. The data from the system is stored in a mySQL database in the server and available online through the WEB API [link](https://parken.perseum.com).
+A separate sensor system \([Libelium Smart Cities Pro](http://www.libelium.com/new-smart-cities-platform-air-quality-dust-sound-light-precision-sensors/)\) offers additional information on environmental data onsite, refer to manufacturer for development guides and the development document for details on local specification. The data from the system is stored in a mySQL database in the server and available online through the WEB API [link](https://adressaparken.no/#cbp=apireference/api_overview.html).
 

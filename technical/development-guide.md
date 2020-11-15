@@ -149,5 +149,5 @@ The current installation has the following sensors:
 * 9387-P Particle Matter \(PM1 / PM2.5/ PM10\) - Dust Probe
 * 9375-P Luminosity Probe ****
 
-Procedures are documented in the API description [here](http://parken.perseum.com/).
+Procedures are documented in the API description [here](https://adressaparken.no/#cbp=apireference/api_overview.html).
 
