@@ -1,4 +1,5 @@
 # Code examples - Inputs
 
-The park makes available an array of sensors.
+* We have 10 raspberry pi sensors that can count people
+* API with environment data. See API docs: [https://adressaparken.no/\#cbp=apireference/api\_overview.html](https://adressaparken.no/#cbp=apireference/api_overview.html)
 
